@@ -1,0 +1,15 @@
+main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.plants-container {
+  display: flex;
+}
+
+.plant-list-item {
+  border: 2px solid #e5e4e2;
+  margin: 0.3rem;
+  list-style-type: none;
+  padding: 0.3rem;
+}
